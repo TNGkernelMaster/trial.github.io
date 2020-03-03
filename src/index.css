@@ -1,0 +1,9 @@
+body {
+    font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif, "Constantia";
+    font-weight: 230;
+    font-size: 11px;
+}
+
+.completed {
+    text-decoration: line-through;
+}
